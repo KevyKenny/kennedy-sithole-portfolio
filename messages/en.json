@@ -1,0 +1,61 @@
+{
+  "person": {
+    "role": "Software Developer"
+  },
+  "newsletter": {
+    "title": "Get hold of {firstName}",
+    "description": "A skilled programmer, adept at leveraging cutting‑edge technologies and agile methods to build robust, scalable software.",
+    "button": "Email"
+  },
+  "home": {
+    "label": "Home",
+    "title": "{name}'s Portfolio",
+    "description": "Portfolio website showcasing my work as a {role}",
+    "headline": "Software developer and builder",
+    "subline": "I'm {name}, a Software Developer with a passion for crafting beautiful, responsive user interfaces and full‑stack apps, and exploring AI to deliver intelligent products."
+  },
+  "about": {
+    "label": "About",
+    "title": "About me",
+    "description": "Meet {name}, {role} from {location}",
+    "intro": {
+      "title": "Introduction",
+      "description": "Kennedy is a software developer who turns complex challenges into simple, elegant solutions across digital interfaces, interactive experiences, and the overlap of design and technology."
+    },
+    "work": {
+      "title": "Work Experience"
+    },
+    "studies": {
+      "title": "Studies"
+    },
+    "technical": {
+      "title": "Technical skills"
+    }
+  },
+  "experience": {
+    "label": "Experience",
+    "title": "Work Experience & Skills",
+    "description": "Professional experience and technical skills of {name}"
+  },
+  "projects": {
+    "label": "Projects",
+    "title": "My projects",
+    "description": "Designed and developed projects by {name}"
+  },
+  "skills": {
+    "label": "Skills",
+    "title": "Skills"
+  },
+  "gallery": {
+    "label": "Gallery",
+    "title": "Gallery"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Get in touch",
+    "description": "Let's connect and discuss opportunities"
+  },
+  "projectCard": {
+    "label": "Read Case Study"
+  }
+}
