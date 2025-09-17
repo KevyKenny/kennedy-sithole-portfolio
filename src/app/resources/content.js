@@ -32,7 +32,7 @@ const social = [
     {
         name: 'CV',
         icon: 'pdf',
-        link: '/',
+        link: '/assets/Kennedy%20Sithole%20-%20Resume.pdf',
     },
     {
         name: 'Email',

@@ -151,8 +151,6 @@ const createI18nContent = (t) => {
         }
     }
 
-    // removed i18n content for blog, work, and gallery
-
     const experience = {
         label: t("experience.label"),
         title: t("experience.title"),
